@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+/* ✅ Add Navigation Styles Here */
 nav {
     background: #d4a373;
     padding: 15px;
@@ -26,13 +26,14 @@ nav a:hover {
 }
 
 
-
+/* Header Styles */
 header {
     background-color: #d4a373;
     padding: 20px;
     color: white;
     font-size: 24px;
 }
+/* Content Styling */
 .container {
     max-width: 800px;
     margin: 20px auto;
@@ -49,6 +50,7 @@ button {
 button:hover {
     background-color: #b9845a;
 }
+/* Footer Styling */
 .footer {
     margin-top: 20px;
     background: #d4a373;
