@@ -51,41 +51,6 @@ button:hover {
     background-color: #b9845a;
 }
 
-/* Contact Form Styling */
-#contact {
-    background: #f8f5f2;
-    padding: 40px;
-    text-align: center;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-    max-width: 400px;
-    margin: auto;
-}
-
-input, textarea {
-    margin: 10px 0;
-    padding: 10px;
-    width: 100%;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-button {
-    background-color: #d4a373;
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-button:hover {
-    background-color: #b9845a;
-}
 
 /* Footer Styling */
 .footer {
